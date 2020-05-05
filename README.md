@@ -1,2 +1,2 @@
 # Code-Desk-Help-Project
-A place where you can ask programming question and have people Zoom in and help you on video (MVP)
+A web app similair to Stack Overflow where you'll be able to ask programming related questions and you will be able to communicate with engineers via video  (zoom for now)
